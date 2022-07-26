@@ -49,4 +49,4 @@ src="https://img.shields.io/github/followers/qieqss?logo=github&style=for-the-ba
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/qieqs"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/qieqs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
