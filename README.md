@@ -10,8 +10,8 @@ I've been learning to code for years as a passion of mine and have learned more 
 *   🖥️  See my portfolio at [not done](http://non-existent.com)
 *   ✉️  You can contact me at [kulakovalexey@proton.me](mailto:kulakovalexey@proton.me)
 *   🧠  I'm learning MERN Stack
-<a href="https://www.github.com/qieqss" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/qieqss?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/qieqss" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/github/followers/qieqss?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
