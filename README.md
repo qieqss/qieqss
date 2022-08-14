@@ -1,4 +1,4 @@
-Hi 👋🏼 My name is Alexey
+Hi 👋🏼 I'm Alexey
 =======================
 
 Software Engineer
